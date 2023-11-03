@@ -1,8 +1,8 @@
 {
   "id": "start-task-in-toggl",
   "name": "Start Task in Toggl",
-  "version": "0.0.1",
-  "minAppVersion": "0.0.1",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
   "description": "Shift + Click on a task's checkbox to open a QR code that links to the task in Toggl",
   "author": "Obsidian",
   "authorUrl": "https://obsidian.md",
