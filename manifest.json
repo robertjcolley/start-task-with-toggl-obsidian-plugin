@@ -5,7 +5,7 @@
   "minAppVersion": "1.0.0",
   "description": "Shift + Click on a task's checkbox to open a QR code that links to the task in Toggl",
   "author": "Obsidian",
-  "authorUrl": "https://obsidian.md",
-  "fundingUrl": "https://obsidian.md/pricing",
-  "isDesktopOnly": false
+  "authorUrl": "https://robertjcolley.com",
+  "fundingUrl": "https://www.buymeacoffee.com/robertjcolley",
+  "isDesktopOnly": true
 }
