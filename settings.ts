@@ -77,8 +77,6 @@ export class TogglQrCodeSettings extends PluginSettingTab {
           ctrlKey: 'Control',
           altKey: 'Alt',
         })
-        console.log(this.plugin.settings.modifierKey)
-        console.log(dropdown.getValue())
         dropdown.setValue(this.plugin.settings.modifierKey)
         dropdown.onChange(async (value: ModifierKey) => {
           this.plugin.settings.modifierKey = value

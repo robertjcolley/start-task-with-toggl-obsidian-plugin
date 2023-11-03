@@ -72,7 +72,6 @@ export default class TogglQrCodePlugin extends Plugin {
 
   async loadSettings() {
     this.settings = Object.assign({}, DEFAULT_SETTINGS, await this.loadData())
-    console.log(this.settings)
   }
 
   async saveSettings() {
