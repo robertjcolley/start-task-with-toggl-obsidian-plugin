@@ -33,7 +33,7 @@ export class TogglQrCodeSettings extends PluginSettingTab {
     const { containerEl } = this
 
     containerEl.empty()
-    containerEl.createEl('h1', { text: 'Toggl Start with QR Code settings' })
+    containerEl.createEl('h1', { text: 'Start Task in Toggl' })
     // TODO: Link to Toggl
     // const text1 = createEl('span')
     // text1.innerText = 'Visit '
